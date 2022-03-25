@@ -20,7 +20,7 @@
     "url": "git+https://github.com/moongchi95/meshTest.git"
   },
   "author": "minhyung_cha",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/moongchi95/meshTest/issues"
   },
